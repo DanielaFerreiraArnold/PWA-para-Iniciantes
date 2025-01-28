@@ -20,7 +20,9 @@ O resultado final deste projeto é uma Progressive Web App (PWA) funcional, que 
 A aplicação criada será uma lista de tarefas, onde o usuário poderá:
 
 Adicionar tarefas.
+
 Visualizar tarefas adicionadas.
+
 Armazenar e exibir a lista de tarefas dinamicamente.
 
 Link para o e-book [AQUI](https://docs.google.com/document/d/1AI6g3Ps0Ni2O7mvX-MZsKhSsBI5eRy6TVjBy810cBoU/edit?tab=t.0#heading=h.x02m5e9bwo5z).
